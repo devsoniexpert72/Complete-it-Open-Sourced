@@ -53,15 +53,11 @@ The hype has since cooled, so I'm building **v3 (or v2.5)** next — and in the 
 
 | Login | Dashboard |
 |---|---|
-| ![Login screen](./screenshots/login.png) | ![Dashboard](./screenshots/dashboard.png) |
-
-| Textbook Library | Reader View |
-|---|---|
-| ![Textbook library](./screenshots/library.png) | ![Reader view](./screenshots/reader.png) |
+| ![Login screen](./screenshots/login.jpg) | ![Dashboard](./screenshots/library.jpg) |
 
 | Resources | Preferences |
 |---|---|
-| ![Resources tab](./screenshots/resources.png) | ![Preferences modal](./screenshots/preferences.png) |
+| ![Resources tab](./screenshots/resources.jpg) | ![Preferences modal](./screenshots/preferences.jpg) |
 
 ---
 
